@@ -1,0 +1,40 @@
+@media only screen and (max-width:1200px) {
+    body {
+        left: -10px;
+        top: -5%;
+    }
+    
+    #container {
+        max-width: 95%;
+        height: 500px;
+    }
+
+    #header {
+        margin-left: 35px;
+    }
+
+    #bio {
+        margin: 40px;
+    }
+
+    #footer {
+        max-width: 95%;
+        margin: 46px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+
+}
+
+@media only screen and (max-width:768px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}
